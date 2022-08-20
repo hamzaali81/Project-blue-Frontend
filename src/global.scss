@@ -1,0 +1,17 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~react-perfect-scrollbar/dist/css/styles.css';
+@import '~c3/c3.min.css';
+@import '~react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
+
+@import '@kit/vendors/antd/style';
+@import '@kit/vendors/bootstrap/style';
+@import '@kit/vendors/perfect-scrollbar/style';
+@import '@kit/vendors/nprogress/style';
+@import '@kit/vendors/chartist/style';
+@import '@kit/vendors/chartist-tooltip-plugin/style';
+@import '@kit/vendors/jvectormap/style';
+@import '@kit/vendors/react-sortable-tree/style';
+@import '@kit/vendors/react-draft-wysiwyg/style';
+
+@import '@kit/core/style'; // Clean UI KIT styles
+@import '@airui/styles/style'; // Clean UI styles
